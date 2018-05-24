@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FootballScorer</string>
+    <string name="home">Home Team</string>
+    <string name="zero">0</string>
+    <string name="touchdown">Touchdown</string>
+    <string name="field_goal">Field Goal</string>
+    <string name="two_point_conversion">2 Point Conversion</string>
+    <string name="one_point_after_td">1 Point After Touchdown</string>
+    <string name="away">Away Team</string>
+    <string name="reset">Reset</string>
+</resources>
